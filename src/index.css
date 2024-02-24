@@ -1,0 +1,28 @@
+.background {
+    background: rgb(0,0,0);
+    background-size: 90%;
+    background-position: -350% 30%;
+    /* background-position: right; */
+
+}
+body {
+    background: rgb(0,0,0);
+    background-image: url('../public/Home.jpg');
+}
+
+
+
+.done{
+    color: rgb(25, 204, 55);
+}
+.notDone{
+    color:rgb(235, 14, 14);
+}
+.day-headings{
+    color: #049cbe;
+}
+.text-light {
+    font-family: monospace, 'Montserrat', sans-serif;
+    font-size: larger;
+    
+  }
